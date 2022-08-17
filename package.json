@@ -1,0 +1,19 @@
+{
+  "name": "labo04",
+  "version": "1.0.0",
+  "description": "Projet le cours Web 1 2022-08-17 - Labo04 du chapitre04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctazGitHub/Labo04-e22.git"
+  },
+  "author": "Raphael Dore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OctazGitHub/Labo04-e22/issues"
+  },
+  "homepage": "https://github.com/OctazGitHub/Labo04-e22#readme"
+}
